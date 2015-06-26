@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "entry_name": "dummy",
+      "address": "0xbf817ddaL",
+      "name" : "NtGdiDrawStream",
+      "module" : "win32k.sys"
+    }
+  ]
+}

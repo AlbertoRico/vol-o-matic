@@ -1,0 +1,15 @@
+{
+    "behaviour": "blacklist",
+
+    "addresses": [
+        "108.162.232.205"
+    ],
+
+    "localports": [
+
+    ],
+
+    "remoteports": [
+
+    ]
+}

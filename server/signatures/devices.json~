@@ -1,0 +1,10 @@
+{
+    "behaviour": "blacklist",
+
+    "sets": [
+        {
+           "name": "rubber_ducky",
+           "ids": ["\\Driver\\usbhub"]
+        }
+    ]
+}

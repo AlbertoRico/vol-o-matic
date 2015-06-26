@@ -1,0 +1,13 @@
+{
+    "behaviour": "blacklist",
+
+    "sid":{
+        "cmd.exe" : [
+                "^S-1-5-21([\\s\\S])+-513$"
+            ]
+    },
+
+    "names": [
+        "explorer.exe"
+    ]
+}
